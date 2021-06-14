@@ -1,6 +1,6 @@
 import tools as t
 print("===PDFTools By JasperDG===")
-print("Ver. 21.6.12")
+print("Ver. 21.6.14")
 print()
 print("use 'help' for more info")
 while True:
