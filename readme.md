@@ -4,7 +4,7 @@
 
 #### How to use
 
-To use the program, just open the python or .exe file in the command prompt, you'll get this message:
+To use the program, just open the python or .exe file(which you can find on github) in the command prompt, you'll get this message:
 
 ```
 ===PDFTools By JasperDG===
